@@ -2,10 +2,10 @@
     <img src="https://github.com/user-attachments/assets/5288ff42-7ecf-4e19-a28c-2d0de829e729" alt="Profile Banner" style="width: 100%;" />
 </div>
 
-<h3 align="center">Hi, I'm Matthew 👋 I'm a full-stack developer and entrepreneur passionate about creating solutions.</h3>
+<h3 align="center">Hi, I'm William 👋 I'm a full-stack developer.</h3>
 
 <p align="left">
-    🧠 I'm a quick learner and love exploring new technologies.<br>
+    🧠 I love coding and learning other technologies.<br>
     💪 Proficient in both front-end and back-end, but I mainly do UI.<br>
     🏋️‍♂️ Other Than programming, I enjoy video games, and spending quality time with my girlfriend.
 </p>
