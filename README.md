@@ -39,7 +39,11 @@
 </div>
 
 <h3>🔥 Stats 🔥</h3>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loner1536&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" align="center" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Loner1536&theme=transparent&hide_border=true" alt="Streak Stats" align="center" />
+<div align="left">
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img height=280 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&theme=radical&layout=pie&langs_count=8&card_width=480" />
+    </a>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=600 height=320 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+    </a>
 </div>
