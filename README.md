@@ -5,7 +5,7 @@
 <h3 align="center">Hi, I'm William 👋 I'm a full-stack developer.</h3>
 
 <p align="left">
-    🧠 I love coding and learning other languages.<br>
+    🧠 I love coding and learning other coding languages.<br>
     💪 Proficient in both front-end and back-end, but I mainly do UI.<br>
     🏋️‍♂️ Other Than programming, I enjoy video games, and spending quality time with my girlfriend.
 </p>
