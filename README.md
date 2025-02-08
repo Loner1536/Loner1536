@@ -43,8 +43,6 @@
     <a href="https://github.com/anuraghazra/convoychat">
       <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&theme=radical&layout=pie&langs_count=8&card_width=400" />
     </a>
-</div>
-<div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=400 height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
     </a>
