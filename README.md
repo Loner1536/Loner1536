@@ -14,7 +14,7 @@
 
 <h2 align="left">💻 Tech Stacks 💻</h2>
 
-<h3>Frontend</h3>
+<h3>: Frontend :</h3>
 <div align="left">  
     <a href="https://www.figma.com/" target="_blank">
         <img style="margin: 20px;" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
@@ -24,7 +24,7 @@
     </a>
 </div>
 
-<h3>Backend</h3>
+<h3>: Backend :</h3>
 <div align="left">  
     <a href="https://luau.org/" target="_blank">
         <img style="margin: 20px;" src="https://luau.org/assets/images/luau-88.png" alt="Luau" height="50" />
