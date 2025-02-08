@@ -40,11 +40,11 @@
 
 <h3>🔥 Stats 🔥</h3>
 <div align="center">
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&theme=radical&layout=compact&langs_count=8&card_width=400" />
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=1000 height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=Loner1536&theme=radical" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=400 height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Loner1536&theme=radical&layout=compact&langs_count=8&card_width=500" />
     </a>
 </div>
 
